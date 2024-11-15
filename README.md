@@ -12,3 +12,10 @@ about your business.
 
 ## TABLE OF CONTENTS
 
+1. Customer List Cleanup on Notebook using customer_list_updated.csv
+
+2. Cleaned Customer List, customer_list after data cleaning in .CSV (cleaned_customer_list.csv)
+
+3. Transaction Analysis on Notebook using transaction_data.csv
+
+4. Customer Transactions Data on Notebook
