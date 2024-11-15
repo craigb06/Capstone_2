@@ -348,7 +348,6 @@ cust_id,date,time,name,email,phone,sms-opt-out
 347,2024-02-19,11:30:25,Lexi Howard,lexi@easthighland.high,626-555-1506,N
 348,2024-05-03,15:55:50,Kat Hernandez,kat@easthighland.high,626-555-1507,N
 349,2024-07-16,20:20:15,Fezco,fez@easthighland.high,626-555-1508,N
-350,2023-03-05,09:45:40,Elliot,elliot@easthighland.high,626-555-1509,N
 351,2023-06-18,14:10:05,Cal Jacobs,cal@easthighland.high,626-555-1510,N
 352,2023-01-10,07:40:30,Dale Cooper,coop@twinpeaks.wa,206-555-1601,N
 353,2023-03-23,12:05:55,Laura Palmer,laura@twinpeaks.wa,206-555-1602,N
@@ -450,10 +449,6 @@ cust_id,date,time,name,email,phone,sms-opt-out
 449,2023-03-05,09:20:10,Harry Goldenblatt,harry@manhattan.nyc,212-555-2508,N
 450,2023-05-18,13:45:35,Aidan Shaw,aidan@manhattan.nyc,212-555-2509,N
 451,2023-08-01,18:10:00,Smith Jerrod,smith@manhattan.nyc,212-555-2510,N
-452,2023-01-15,08:30:25,Walter White,heisenberg@lospolloshermanos.biz,505-555-2601,N
-453,2023-03-28,12:55:50,Jesse Pinkman,jesse@lospolloshermanos.biz,505-555-2602,N
-454,2023-06-10,17:20:15,Saul Goodman,saul@lospolloshermanos.biz,505-555-2603,N
-455,2023-08-23,21:45:40,Gus Fring,gus@lospolloshermanos.biz,505-555-2604,Y
 456,2023-11-05,07:10:05,Mike Ehrmantraut,mike@lospolloshermanos.biz,505-555-2605,N
 457,2024-01-18,11:35:30,Skyler White,skyler@lospolloshermanos.biz,505-555-2606,N
 458,2024-04-04,15:00:55,Kim Wexler,kim@lospolloshermanos.biz,505-555-2607,N
