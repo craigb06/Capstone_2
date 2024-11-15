@@ -19,3 +19,5 @@ about your business.
 3. Transaction Analysis on Notebook using transaction_data.csv
 
 4. Customer Transactions Data on Notebook
+
+5. Insights from the project on PowerPoint
